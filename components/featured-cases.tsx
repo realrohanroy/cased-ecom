@@ -26,7 +26,7 @@ const FEATURED_COLLECTIONS: FeaturedCollectionItem[] = [
     id: 'everyday-protection',
     title: 'Everyday Protection with a Kick',
     imageLabel: '01',
-    imageUrl: '/placeholder.jpg',
+    imageUrl: '/featured-1.webp',
     link: '/products?category=protection',
     theme: {
       bg: 'bg-[#FCE154]', // Casetify Yellow
@@ -57,7 +57,7 @@ const FEATURED_COLLECTIONS: FeaturedCollectionItem[] = [
     id: 'wear-your-phone',
     title: 'Wear Your Phone: Hands-Free with Straps & Charms',
     imageLabel: '02',
-    imageUrl: '/placeholder.jpg',
+    imageUrl: '/featured-2.webp',
     link: '/products?category=accessories',
     theme: {
       bg: 'bg-[#F9C3D3]', // Pinkish background
