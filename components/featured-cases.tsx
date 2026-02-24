@@ -68,21 +68,21 @@ const FEATURED_COLLECTIONS: FeaturedCollectionItem[] = [
       labelText: 'text-white',
     },
   },
-  {
-    id: 'best-choice',
-    title: 'The Best Choice for Everyday Protection',
-    imageLabel: '03',
-    imageUrl: '/placeholder.jpg',
-    link: '/products?category=protection',
-    theme: {
-      bg: 'bg-[#27A768]', // Green background
-      text: 'text-black',
-      buttonBg: 'bg-transparent border border-black',
-      buttonText: 'text-black hover:bg-black hover:text-[#27A768]',
-      labelBg: 'bg-black',
-      labelText: 'text-[#FCE154]',
-    },
-  },
+  // {
+  //   id: 'best-choice',
+  //   title: 'The Best Choice for Everyday Protection',
+  //   imageLabel: '03',
+  //   imageUrl: '/placeholder.jpg',
+  //   link: '/products?category=protection',
+  //   theme: {
+  //     bg: 'bg-[#27A768]', // Green background
+  //     text: 'text-black',
+  //     buttonBg: 'bg-transparent border border-black',
+  //     buttonText: 'text-black hover:bg-black hover:text-[#27A768]',
+  //     labelBg: 'bg-black',
+  //     labelText: 'text-[#FCE154]',
+  //   },
+  // },
 ];
 
 export function FeaturedCases() {
